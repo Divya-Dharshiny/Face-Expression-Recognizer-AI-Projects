@@ -34,4 +34,4 @@ https://drive.google.com/drive/folders/10P4s8uZ0dfqBwFMFx1kB6hrqLHtwBKgM?usp=sha
 * 12.Defining our callbacks
 * 13.Training the model
 * 14.Evaluating the loaded model
-* 15. Realtime Prediction
+* 15.Realtime Prediction
